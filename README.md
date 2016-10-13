@@ -10,3 +10,7 @@
 
 > tanay_agrawal@hotmail.com
 
+## Website Developers:
+
+> Tanay Agrawal and Kapil Kumar
+
