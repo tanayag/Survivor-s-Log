@@ -1,13 +1,18 @@
 .site-heading h1{
    font-family: 'Nosifer', cursive;
-   color: red;
+   color: black;
     font-weight: 100;
     font-size: 30px;
 
 }
 .page-heading h1{
  font-family: 'Nosifer', cursive;
-   color: red;
+   color: black;
     font-weight: 100;
     font-size: 30px;   
 }
+.subheading span{
+font-family: 'Nosifer', cursive;
+   color: black;
+     }
+
