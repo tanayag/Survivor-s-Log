@@ -10,6 +10,6 @@
 
 > tanay_agrawal@hotmail.com
 
-### Develpoed By:
+### Developed by:
 
 > Tanay Agrawal and Kapil Kumar
