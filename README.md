@@ -1,6 +1,6 @@
 # Survivor's Logs:
 
-> --edit--
+> 
 
 ## Author:
 
